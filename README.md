@@ -26,7 +26,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 
 ![balan](https://user-images.githubusercontent.com/82621077/130371418-b5d6e339-1f1f-4aab-9a4f-16393faf5da3.png)
 
-# 2- Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 87%
+# 2- Balanced Random Forest Classifier results: the accuracy score is 77.4% the precision is 99% and the recall is 87%
 
 
 
