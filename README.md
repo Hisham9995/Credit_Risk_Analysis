@@ -3,13 +3,9 @@
 
 # Overview of the analysis:
 
-The overview of this Analysis is to predict  credit risk , We oversample the data using the RandomOverSampler and SMOTE algorithms.We did also
-Undersample the data using the ClusterCentroids algorithm. in addition we  Used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm,
-Comparing  two machine learning models that reduce bias,  such as BalancedRandomForestClassifier and EasyEnsembleClassifier,comparing two machine learning models minimize  bias
+The overview of this Analysis is to predict credit risk, We oversample the data using the RandomOverSampler and SMOTE algorithms. We did also Undersample the data using the ClusterCentroids algorithm. in addition we Used a combinatorial approach of over-and undersampling using the SMOTEENN algorithm, Comparing two machine learning models that reduce bias, such as BalancedRandomForestClassifier and EasyEnsembleClassifier, comparing two machine learning models minimize bias
 
-
-
-We  evaluate the performance of these models and make a recommendation on whether these information legit  to predict credit risk 
+We evaluate the performance of these models and make a recommendation on whether this information legit to predict credit risk
 
 
 # Results
@@ -66,17 +62,13 @@ We  evaluate the performance of these models and make a recommendation on whethe
 ![Naive](https://user-images.githubusercontent.com/82621077/130371761-12a3b2cf-b9c1-4979-8c54-8a6dc36dd6a6.png)
 
 
-# 6-Naive Random Oversampling results: Our balanced accuracy test it 68%, the precision for the high_risk has a very low positivity at 1% and the recall is 68%
+# 6-Naive Random Oversampling results: Our balanced accuracy-test it 68%, the precision for the high_risk has a very low positivity at 1% and the recall is 68%
 
 
 
 
 # Summary 
 
-This credit risk Analysis  shows weak precision in determining  that credit risk is high 
-The Ensemble models brought a lot more improvment specially on the sensitivity of the high risk credits.
-The EasyEnsembleClassifier model shows a recall of 91.7% so it detects almost all high risk credit.  with a low precision, 
-For those reasons I would not recommend the bank to use any of these models to predict credit risk.
-In this anaylsis we can not rely on outcomes a lot of low risk credits are still falsely detected as high risk
+This credit risk Analysis shows weak precision in determining that credit risk is high The Ensemble models brought a lot more improvement especially on the sensitivity of the high-risk credits. The EasyEnsembleClassifier model shows a recall of 91.7% so it detects almost all high-risk credit. with low precision, For those reasons, I would not recommend the bank to use any of these models to predict credit risk. In this analysis we can not rely on outcomes a lot of low-risk credits are still falsely detected as high risk
 
 
