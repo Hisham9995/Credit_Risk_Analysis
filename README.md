@@ -16,7 +16,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 ![Ada](https://user-images.githubusercontent.com/82621077/130371140-ef9746e0-47e0-4e4e-9422-21086e378a11.png)
 
 
-1- Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
+# 1- Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
 
 
 
@@ -24,7 +24,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 
 ![balan](https://user-images.githubusercontent.com/82621077/130371418-b5d6e339-1f1f-4aab-9a4f-16393faf5da3.png)
 
-2- Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 87%
+# 2- Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 87%
 
 
 
@@ -34,7 +34,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 
 ![Combination](https://user-images.githubusercontent.com/82621077/130371539-cbf355ad-c5cc-4b61-9777-e1bccbf7eb16.png)
 
-3. Combination(over and undersampling) results: balanced accuracy score is 53% the precision is 99% and the recall is 68% overall
+# 3. Combination(over and undersampling) results: balanced accuracy score is 53% the precision is 99% and the recall is 68% overall
 
 
 
@@ -42,7 +42,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 
 ![Un](https://user-images.githubusercontent.com/82621077/130371614-e62d14db-5257-4b7c-b49e-fd6aa48df7ae.png)
 
-4- Undersampling results: balanced accuracy score is 43 % overall, the precision is at 99% and the recall is 44%
+# 4- Undersampling results: balanced accuracy score is 43 % overall, the precision is at 99% and the recall is 44%
 
 
 
@@ -52,7 +52,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 ![smote](https://user-images.githubusercontent.com/82621077/130371704-a5df3777-03b9-4c76-8ddf-98726d1e37f2.png)
 
 
-5- SMOTE oversampling results: the accuracy score is 66.6%, the precision for the high_risk loans has a low positvity again at 1% and recall is 67% overall
+# 5- SMOTE oversampling results: the accuracy score is 66.6%, the precision for the high_risk loans has a low positvity again at 1% and recall is 67% overall
 
 
 
@@ -64,7 +64,7 @@ We  evaluate the performance of these models and make a recommendation on whethe
 ![Naive](https://user-images.githubusercontent.com/82621077/130371761-12a3b2cf-b9c1-4979-8c54-8a6dc36dd6a6.png)
 
 
-Naive Random Oversampling results: Our balanced accuracy test it 68%, the precision for the high_risk has a very low positivity at 1% and the recall is 68%
+# 6-Naive Random Oversampling results: Our balanced accuracy test it 68%, the precision for the high_risk has a very low positivity at 1% and the recall is 68%
 
 
 
