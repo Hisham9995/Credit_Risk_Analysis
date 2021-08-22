@@ -5,11 +5,11 @@
 
 The overview of this Analysis is to predict  credit risk , We oversample the data using the RandomOverSampler and SMOTE algorithms.We did also
 Undersample the data using the ClusterCentroids algorithm. in addition we  Used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm,
-Comparing  two machine learning models that reduce bias,  such as BalancedRandomForestClassifier and EasyEnsembleClassifier.
+Comparing  two machine learning models that reduce bias,  such as BalancedRandomForestClassifier and EasyEnsembleClassifier,comparing two machine learning models minimize  bias
 
 
-We  evaluate the performance of these models and make a recommendation on whether these information legit  to predict credit risk ,comparing two machine learning models minimize  bias
 
+We  evaluate the performance of these models and make a recommendation on whether these information legit  to predict credit risk 
 
 
 # Results
